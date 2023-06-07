@@ -124,9 +124,9 @@ HAL_GPIO_Write Pin (GPIOA, GPIO_PIN_0, GPIO_PIN_SET);;
 ## Output :
 ### screen shots on serial monitor   :
  
- ![o](1.jpg)
- ### Digital circuit:
  ![o](2.jpg)
+ ### Digital circuit:
+ ![o](1.jpg)
  
  
 ## Result :
